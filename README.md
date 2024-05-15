@@ -68,9 +68,3 @@ Calculate Conditional Mutual Information
 ```bash
 python code/I3.py
 ```
-
-
-L:
-cd repositories
-cd I3
-wsl -u root
