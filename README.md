@@ -51,6 +51,7 @@ python code/nrgs/read.py ### at this step, still need to fix
 
 ## Step 4: Calculate Thermodynamic Coupling Function
 ```bash
+python code/TCF.py
 ```
 
 ### -- Visualization --
